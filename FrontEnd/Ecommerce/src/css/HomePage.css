@@ -1,0 +1,19 @@
+.home-page {
+  display: flex;
+  flex-direction: row;
+  background-color: pink;
+  width: 100%;
+}
+
+.content-side {
+  width: 80%;
+  height: 100%;
+  background-color: black;
+  text-emphasis-color: white;
+}
+
+.index-side {
+  width: 20%;
+  height: 100%;
+  background-color: black;
+}
